@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Add one line above.
 This a test file.
+=======
+This a test file.
+Add one line below.
+>>>>>>> cef701e (Add one line at the end of the new file)
